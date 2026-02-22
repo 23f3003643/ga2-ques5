@@ -4,32 +4,32 @@
     "version": "f9075105"
   },
   "products": [
-    { "id": 1, "name": "Classic White T-Shirt", "category": "clothing", "price": 799.99, "stock": 50, "rating": 4.3 },
-    { "id": 2, "name": "Slim Fit Jeans", "category": "clothing", "price": 2499.50, "stock": 30, "rating": 4.5 },
-    { "id": 3, "name": "Cotton Hoodie", "category": "clothing", "price": 1899.00, "stock": 25, "rating": 4.6 },
-    { "id": 4, "name": "Formal Shirt", "category": "clothing", "price": 1599.75, "stock": 40, "rating": 4.2 },
-    { "id": 5, "name": "Sports Shorts", "category": "clothing", "price": 999.00, "stock": 60, "rating": 4.1 },
-    { "id": 6, "name": "Leather Jacket", "category": "clothing", "price": 5999.00, "stock": 10, "rating": 4.8 },
-    { "id": 7, "name": "Summer Dress", "category": "clothing", "price": 2199.50, "stock": 20, "rating": 4.4 },
+    { "id": "prod-f9075105-001", "name": "Classic White T-Shirt", "category": "clothing", "price": 799.99, "stock": 50, "rating": 4.3 },
+    { "id": "prod-f9075105-002", "name": "Slim Fit Jeans", "category": "clothing", "price": 2499.50, "stock": 30, "rating": 4.5 },
+    { "id": "prod-f9075105-003", "name": "Cotton Hoodie", "category": "clothing", "price": 1899.00, "stock": 25, "rating": 4.6 },
+    { "id": "prod-f9075105-004", "name": "Formal Shirt", "category": "clothing", "price": 1599.75, "stock": 40, "rating": 4.2 },
+    { "id": "prod-f9075105-005", "name": "Sports Shorts", "category": "clothing", "price": 999.00, "stock": 60, "rating": 4.1 },
+    { "id": "prod-f9075105-006", "name": "Leather Jacket", "category": "clothing", "price": 5999.00, "stock": 10, "rating": 4.8 },
+    { "id": "prod-f9075105-007", "name": "Summer Dress", "category": "clothing", "price": 2199.50, "stock": 20, "rating": 4.4 },
 
-    { "id": 8, "name": "Wireless Mouse", "category": "electronics", "price": 1299.00, "stock": 100, "rating": 4.5 },
-    { "id": 9, "name": "Bluetooth Headphones", "category": "electronics", "price": 3499.99, "stock": 45, "rating": 4.7 },
-    { "id": 10, "name": "Mechanical Keyboard", "category": "electronics", "price": 4599.00, "stock": 35, "rating": 4.6 },
-    { "id": 11, "name": "Smart Watch", "category": "electronics", "price": 7999.00, "stock": 15, "rating": 4.3 },
-    { "id": 12, "name": "USB-C Charger", "category": "electronics", "price": 899.00, "stock": 150, "rating": 4.4 },
+    { "id": "prod-f9075105-008", "name": "Wireless Mouse", "category": "electronics", "price": 1299.00, "stock": 100, "rating": 4.5 },
+    { "id": "prod-f9075105-009", "name": "Bluetooth Headphones", "category": "electronics", "price": 3499.99, "stock": 45, "rating": 4.7 },
+    { "id": "prod-f9075105-010", "name": "Mechanical Keyboard", "category": "electronics", "price": 4599.00, "stock": 35, "rating": 4.6 },
+    { "id": "prod-f9075105-011", "name": "Smart Watch", "category": "electronics", "price": 7999.00, "stock": 15, "rating": 4.3 },
+    { "id": "prod-f9075105-012", "name": "USB-C Charger", "category": "electronics", "price": 899.00, "stock": 150, "rating": 4.4 },
 
-    { "id": 13, "name": "Wooden Dining Table", "category": "furniture", "price": 15999.00, "stock": 5, "rating": 4.5 },
-    { "id": 14, "name": "Office Chair", "category": "furniture", "price": 7499.50, "stock": 12, "rating": 4.6 },
-    { "id": 15, "name": "Bookshelf", "category": "furniture", "price": 5499.00, "stock": 8, "rating": 4.2 },
-    { "id": 16, "name": "Queen Bed Frame", "category": "furniture", "price": 18999.00, "stock": 3, "rating": 4.7 },
+    { "id": "prod-f9075105-013", "name": "Wooden Dining Table", "category": "furniture", "price": 15999.00, "stock": 5, "rating": 4.5 },
+    { "id": "prod-f9075105-014", "name": "Office Chair", "category": "furniture", "price": 7499.50, "stock": 12, "rating": 4.6 },
+    { "id": "prod-f9075105-015", "name": "Bookshelf", "category": "furniture", "price": 5499.00, "stock": 8, "rating": 4.2 },
+    { "id": "prod-f9075105-016", "name": "Queen Bed Frame", "category": "furniture", "price": 18999.00, "stock": 3, "rating": 4.7 },
 
-    { "id": 17, "name": "Running Shoes", "category": "footwear", "price": 3999.00, "stock": 22, "rating": 4.6 },
-    { "id": 18, "name": "Sandals", "category": "footwear", "price": 1499.00, "stock": 40, "rating": 4.2 },
-    { "id": 19, "name": "Formal Shoes", "category": "footwear", "price": 4599.00, "stock": 18, "rating": 4.4 },
+    { "id": "prod-f9075105-017", "name": "Running Shoes", "category": "footwear", "price": 3999.00, "stock": 22, "rating": 4.6 },
+    { "id": "prod-f9075105-018", "name": "Sandals", "category": "footwear", "price": 1499.00, "stock": 40, "rating": 4.2 },
+    { "id": "prod-f9075105-019", "name": "Formal Shoes", "category": "footwear", "price": 4599.00, "stock": 18, "rating": 4.4 },
 
-    { "id": 20, "name": "Cookware Set", "category": "kitchen", "price": 6999.00, "stock": 10, "rating": 4.5 },
-    { "id": 21, "name": "Blender", "category": "kitchen", "price": 3499.00, "stock": 25, "rating": 4.3 },
-    { "id": 22, "name": "Electric Kettle", "category": "kitchen", "price": 1999.00, "stock": 30, "rating": 4.4 }
+    { "id": "prod-f9075105-020", "name": "Cookware Set", "category": "kitchen", "price": 6999.00, "stock": 10, "rating": 4.5 },
+    { "id": "prod-f9075105-021", "name": "Blender", "category": "kitchen", "price": 3499.00, "stock": 25, "rating": 4.3 },
+    { "id": "prod-f9075105-022", "name": "Electric Kettle", "category": "kitchen", "price": 1999.00, "stock": 30, "rating": 4.4 }
   ],
   "aggregations": {
     "clothing": {
