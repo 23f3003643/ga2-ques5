@@ -4,32 +4,28 @@
     "version": "f9075105"
   },
   "products": [
-    { "id": "prod-f9075105-001", "name": "Classic White T-Shirt", "category": "clothing", "price": 799.99, "stock": 50, "rating": 4.3 },
-    { "id": "prod-f9075105-002", "name": "Slim Fit Jeans", "category": "clothing", "price": 2499.50, "stock": 30, "rating": 4.5 },
-    { "id": "prod-f9075105-003", "name": "Cotton Hoodie", "category": "clothing", "price": 1899.00, "stock": 25, "rating": 4.6 },
-    { "id": "prod-f9075105-004", "name": "Formal Shirt", "category": "clothing", "price": 1599.75, "stock": 40, "rating": 4.2 },
-    { "id": "prod-f9075105-005", "name": "Sports Shorts", "category": "clothing", "price": 999.00, "stock": 60, "rating": 4.1 },
-    { "id": "prod-f9075105-006", "name": "Leather Jacket", "category": "clothing", "price": 5999.00, "stock": 10, "rating": 4.8 },
-    { "id": "prod-f9075105-007", "name": "Summer Dress", "category": "clothing", "price": 2199.50, "stock": 20, "rating": 4.4 },
-
-    { "id": "prod-f9075105-008", "name": "Wireless Mouse", "category": "electronics", "price": 1299.00, "stock": 100, "rating": 4.5 },
-    { "id": "prod-f9075105-009", "name": "Bluetooth Headphones", "category": "electronics", "price": 3499.99, "stock": 45, "rating": 4.7 },
-    { "id": "prod-f9075105-010", "name": "Mechanical Keyboard", "category": "electronics", "price": 4599.00, "stock": 35, "rating": 4.6 },
-    { "id": "prod-f9075105-011", "name": "Smart Watch", "category": "electronics", "price": 7999.00, "stock": 15, "rating": 4.3 },
-    { "id": "prod-f9075105-012", "name": "USB-C Charger", "category": "electronics", "price": 899.00, "stock": 150, "rating": 4.4 },
-
-    { "id": "prod-f9075105-013", "name": "Wooden Dining Table", "category": "furniture", "price": 15999.00, "stock": 5, "rating": 4.5 },
-    { "id": "prod-f9075105-014", "name": "Office Chair", "category": "furniture", "price": 7499.50, "stock": 12, "rating": 4.6 },
-    { "id": "prod-f9075105-015", "name": "Bookshelf", "category": "furniture", "price": 5499.00, "stock": 8, "rating": 4.2 },
-    { "id": "prod-f9075105-016", "name": "Queen Bed Frame", "category": "furniture", "price": 18999.00, "stock": 3, "rating": 4.7 },
-
-    { "id": "prod-f9075105-017", "name": "Running Shoes", "category": "footwear", "price": 3999.00, "stock": 22, "rating": 4.6 },
-    { "id": "prod-f9075105-018", "name": "Sandals", "category": "footwear", "price": 1499.00, "stock": 40, "rating": 4.2 },
-    { "id": "prod-f9075105-019", "name": "Formal Shoes", "category": "footwear", "price": 4599.00, "stock": 18, "rating": 4.4 },
-
-    { "id": "prod-f9075105-020", "name": "Cookware Set", "category": "kitchen", "price": 6999.00, "stock": 10, "rating": 4.5 },
-    { "id": "prod-f9075105-021", "name": "Blender", "category": "kitchen", "price": 3499.00, "stock": 25, "rating": 4.3 },
-    { "id": "prod-f9075105-022", "name": "Electric Kettle", "category": "kitchen", "price": 1999.00, "stock": 30, "rating": 4.4 }
+    { "id": "prod-f9075105-001", "name": "Elite Item 1", "category": "sports", "price": 113.02, "stock": 83, "rating": 3.3 },
+    { "id": "prod-f9075105-002", "name": "Standard Item 2", "category": "books", "price": 12.74, "stock": 17, "rating": 3.3 },
+    { "id": "prod-f9075105-003", "name": "Elite Item 3", "category": "books", "price": 200.2, "stock": 128, "rating": 4.3 },
+    { "id": "prod-f9075105-004", "name": "Premium Item 4", "category": "home", "price": 287.29, "stock": 6, "rating": 2.5 },
+    { "id": "prod-f9075105-005", "name": "Basic Item 5", "category": "clothing", "price": 146.82, "stock": 127, "rating": 2 },
+    { "id": "prod-f9075105-006", "name": "Pro Item 6", "category": "sports", "price": 318.63, "stock": 144, "rating": 2.5 },
+    { "id": "prod-f9075105-007", "name": "Standard Item 7", "category": "books", "price": 422.17, "stock": 135, "rating": 2.4 },
+    { "id": "prod-f9075105-008", "name": "Pro Item 8", "category": "books", "price": 201.06, "stock": 79, "rating": 2.4 },
+    { "id": "prod-f9075105-009", "name": "Pro Item 9", "category": "books", "price": 30.65, "stock": 94, "rating": 3.7 },
+    { "id": "prod-f9075105-010", "name": "Premium Item 10", "category": "home", "price": 485.78, "stock": 149, "rating": 4.5 },
+    { "id": "prod-f9075105-011", "name": "Elite Item 11", "category": "sports", "price": 335.99, "stock": 52, "rating": 3.4 },
+    { "id": "prod-f9075105-012", "name": "Pro Item 12", "category": "clothing", "price": 88.99, "stock": 120, "rating": 3.9 },
+    { "id": "prod-f9075105-013", "name": "Basic Item 13", "category": "clothing", "price": 44.92, "stock": 77, "rating": 4.4 },
+    { "id": "prod-f9075105-014", "name": "Pro Item 14", "category": "clothing", "price": 322.69, "stock": 117, "rating": 1.4 },
+    { "id": "prod-f9075105-015", "name": "Basic Item 15", "category": "clothing", "price": 80.87, "stock": 106, "rating": 2.7 },
+    { "id": "prod-f9075105-016", "name": "Standard Item 16", "category": "books", "price": 177.08, "stock": 94, "rating": 1.3 },
+    { "id": "prod-f9075105-017", "name": "Pro Item 17", "category": "home", "price": 329.08, "stock": 186, "rating": 1.8 },
+    { "id": "prod-f9075105-018", "name": "Standard Item 18", "category": "clothing", "price": 110.52, "stock": 159, "rating": 4.5 },
+    { "id": "prod-f9075105-019", "name": "Pro Item 19", "category": "electronics", "price": 145.7, "stock": 199, "rating": 3 },
+    { "id": "prod-f9075105-020", "name": "Pro Item 20", "category": "clothing", "price": 358.18, "stock": 88, "rating": 4.6 },
+    { "id": "prod-f9075105-021", "name": "Premium Item 21", "category": "electronics", "price": 25.71, "stock": 105, "rating": 3.9 },
+    { "id": "prod-f9075105-022", "name": "Pro Item 22", "category": "sports", "price": 328.42, "stock": 132, "rating": 3.7 }
   ],
   "aggregations": {
     "clothing": {
